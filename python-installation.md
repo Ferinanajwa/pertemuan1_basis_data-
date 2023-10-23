@@ -1,6 +1,6 @@
 How to Install python 
 Steps:
-1. download python installer: [Link].(https://www.python.org/downloads/)
-2. klik file installer
-3. klik install dan Next
-4. hasil instalnya 
+1. download python installer: [Link](https://www.python.org/downloads/)
+3. klik file installer
+4. klik install dan Next
+5. hasil instalnya 
